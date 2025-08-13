@@ -8,6 +8,7 @@
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
+        "@vitejs/plugin-vue": "^5.2.4",
         "axios": "^1.11.0",
         "concurrently": "^9.0.1",
         "laravel-vite-plugin": "^2.0.0",
@@ -16,6 +17,7 @@
     },
     "dependencies": {
         "vue": "^3.5.18",
-        "vue-router": "^4.5.1"
+        "vue-router": "^4.5.1",
+        "chart.js": "^4.4.0"
     }
 }
